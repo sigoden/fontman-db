@@ -1,0 +1,95 @@
+[[font]]
+name = "FiraCode"
+format = "ttf"
+site = "https://github.com/tonsky/FiraCode"
+kinds = [
+    "Bold",
+    "Light",
+    "Medium",
+    "Regular",
+    "Retina",
+    "SemiBold",
+]
+
+[[font]]
+name = "Monoid"
+format = "ttf"
+site = "https://github.com/larsenwork/monoid"
+kinds = [
+    "Bold",
+    "Italic",
+    "Regular",
+    "Retina",
+]
+
+[[font]]
+name = "Hasklig"
+format = "otf"
+site = "https://github.com/i-tu/Hasklig"
+kinds = [
+    "Black",
+    "BlackIt",
+    "Bold",
+    "BoldIt",
+    "ExtraLight",
+    "ExtraLightIt",
+    "It",
+    "Light",
+    "LightIt",
+    "Medium",
+    "MediumIt",
+    "Regular",
+    "Semibold",
+    "SemiboldIt",
+]
+
+[[font]]
+name = "SourceCodePro"
+format = "ttf"
+site = "https://github.com/adobe-fonts/source-code-pro"
+kinds = [
+    "Black",
+    "BlackIt",
+    "Bold",
+    "BoldIt",
+    "ExtraLight",
+    "ExtraLightIt",
+    "It",
+    "Light",
+    "LightIt",
+    "Medium",
+    "MediumIt",
+    "Regular",
+    "Semibold",
+    "SemiboldIt",
+]
+
+[[font]]
+name = "OfficeCodePro"
+format = "ttf"
+site = "https://github.com/nathco/Office-Code-Pro"
+kinds = [
+    "Bold",
+    "BoldItalic",
+    "Light",
+    "LightItalic",
+    "Medium",
+    "MediumItalic",
+    "Regular",
+    "RegularItalic",
+]
+
+[[font]]
+name = "OfficeCodeProD"
+format = "ttf"
+site = "https://github.com/nathco/Office-Code-Pro"
+kinds = [
+    "Bold",
+    "BoldItalic",
+    "Light",
+    "LightItalic",
+    "Medium",
+    "MediumItalic",
+    "Regular",
+    "RegularItalic",
+]
